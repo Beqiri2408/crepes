@@ -8,7 +8,7 @@ set(CMAKE_DEPENDS_LANGUAGES
   )
 # The set of files for implicit dependencies of each language:
 set(CMAKE_DEPENDS_CHECK_C
-  "P:/1re année/Modules Application/MA-20/crepes/main.c" "P:/1re année/Modules Application/MA-20/crepes/cmake-build-debug/CMakeFiles/crepes.dir/main.c.obj"
+  "P:/1re annee/Modules Application/MA-20/crepes/main.c" "P:/1re annee/Modules Application/MA-20/crepes/cmake-build-debug/CMakeFiles/crepes.dir/main.c.obj"
   )
 set(CMAKE_C_COMPILER_ID "GNU")
 
