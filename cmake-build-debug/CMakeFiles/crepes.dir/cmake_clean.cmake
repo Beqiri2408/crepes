@@ -1,5 +1,6 @@
 file(REMOVE_RECURSE
   "CMakeFiles/crepes.dir/main.c.obj"
+  "CMakeFiles/crepes.dir/main.c.obj.d"
   "crepes.exe"
   "crepes.exe.manifest"
   "crepes.pdb"
